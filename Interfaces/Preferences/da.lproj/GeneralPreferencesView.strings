@@ -72,7 +72,7 @@
 "kGA-Sa-RLG.title" = "Standard RSS Reader";
 
 /* Class = "NSButtonCell"; title = "Check for new articles on start up"; ObjectID = "pXX-MI-tJX"; */
-"pXX-MI-tJX.title" = "Tjek for nye artikler ved opstart";
+"pXX-MI-tJX.title" = "Tjek efter nye artikler ved opstart";
 
 /* Class = "NSButtonCell"; title = "Search for latest Beta versions"; ObjectID = "OID-qF-Pp0"; */
 "OID-qF-Pp0.title" = "Search for latest Beta versions";
@@ -94,20 +94,20 @@
 "BbI-0A-zEG.title" = "Når nye ulæste artikler er modtaget:";
 
 /* Class = "NSTextFieldCell"; title = "Mark current article read:\n"; ObjectID = "sCl-hz-PFF"; */
-"sCl-hz-PFF.title" = "Mark current article read:\n";
+"sCl-hz-PFF.title" = "Marker nuværende artikel som læst:\n";
 
 /* Class = "NSButtonCell"; title = "Show in menu bar"; ObjectID = "JN6-lj-bQ1"; */
-"JN6-lj-bQ1.title" = "Show in menu bar";
+"JN6-lj-bQ1.title" = "Vis i menulinien";
 
 /* Class = "NSButtonCell"; title = "Radio"; ObjectID = "NAE-EF-SsE"; */
 "NAE-EF-SsE.title" = "Radio";
 
 /* Class = "NSButtonCell"; title = "Mark updated articles as new"; ObjectID = "meo-78-YOl"; */
-"meo-78-YOl.title" = "Mark updated articles as new";
+"meo-78-YOl.title" = "Marker opdaterede artikler som værende nye";
 
 /* Class = "NSButtonCell"; title = "Include anonymous system profile"; ObjectID = "qno-Cg-EkC"; */
-"qno-Cg-EkC.title" = "Include anonymous system profile";
+"qno-Cg-EkC.title" = "Inkluder anonym systemprofil";
 
 /* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "qeb-at-hYb"; */
-"qeb-at-hYb.title" = "Updates:";
+"qeb-at-hYb.title" = "Opdateringer:";
 
